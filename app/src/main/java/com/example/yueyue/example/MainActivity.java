@@ -3,6 +3,7 @@ package com.example.yueyue.example;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity
@@ -16,5 +17,6 @@ public class MainActivity extends AppCompatActivity
         //二楼写了一个button的方法
         TextView textView;
         Button bUtton;
+        ImageButton imageButton;
     }
 }
