@@ -1,8 +1,7 @@
 package com.example.yueyue.example;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.Button;
+import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity
 {
@@ -12,6 +11,6 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button button;
+        //二楼写了一个button的方法
     }
 }
