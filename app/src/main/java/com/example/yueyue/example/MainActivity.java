@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         //二楼写了一个button的方法
         TextView textView;
+        //注释一下代码
     }
 }
